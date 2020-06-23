@@ -57,11 +57,11 @@ It can be a `comma separated string` or an `arrayref of strings`.
 
 # AUTHOR
 
-Ramin Sadeghnasab <ramin@firstsource.tech>
+Ramin Sadeghnasab <ramin@email.com>
 
 # CONTRIBUTOR
 
-Ramin Sadeghnasab <ramin@firstsource.tech>
+Ramin Sadeghnasab <ramin@email.com>
 
 # COPYRIGHT AND LICENSE
 
